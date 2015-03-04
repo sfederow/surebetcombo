@@ -1,6 +1,6 @@
 # surebetcombo
 
-##Installation on EC2 box
+####Installation on EC2 box
 
 ```
 sudo apt-get install git python-dev python-pip mongodb node npm 
